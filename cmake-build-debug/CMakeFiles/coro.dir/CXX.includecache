@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liiiyu/Documents/learn_lang/c++/Coro.cpp
+iostream
+-
+Coro.h
+/home/liiiyu/Documents/learn_lang/c++/Coro.h
+
+/home/liiiyu/Documents/learn_lang/c++/Coro.h
+functional
+-
+ucontext.h
+-
+unordered_map
+-
+memory
+-
+assert.h
+-
+list
+-
+queue
+-
+
+/home/liiiyu/Documents/learn_lang/c++/test1.cpp
+Coro.h
+/home/liiiyu/Documents/learn_lang/c++/Coro.h
+iostream
+-
+
