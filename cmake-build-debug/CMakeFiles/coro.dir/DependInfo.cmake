@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/liiiyu/Documents/learn_lang/c++/Coro.cpp" "/home/liiiyu/Documents/learn_lang/c++/cmake-build-debug/CMakeFiles/coro.dir/Coro.cpp.o"
-  "/home/liiiyu/Documents/learn_lang/c++/test1.cpp" "/home/liiiyu/Documents/learn_lang/c++/cmake-build-debug/CMakeFiles/coro.dir/test1.cpp.o"
+  "/home/liiiyu/Documents/Coro/Coro.cpp" "/home/liiiyu/Documents/Coro/cmake-build-debug/CMakeFiles/coro.dir/Coro.cpp.o"
+  "/home/liiiyu/Documents/Coro/test1.cpp" "/home/liiiyu/Documents/Coro/cmake-build-debug/CMakeFiles/coro.dir/test1.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
